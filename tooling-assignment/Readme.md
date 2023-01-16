@@ -34,21 +34,21 @@ Additional samples and tutorials are available at [https://github.com/illinoiste
 ![ModernShell](Images/Windows_Terminal.png "ModernShell")
 
 ### Install IDE editor with native version control support
-![IDEeditor](VisualStudioCode.png "Text Editor")
+![IDEeditor](Images/VisualStudioCode.png "Text Editor")
 
 ### Install Git Client for Version Control
-![git](git.png "git")
+![git](Images/git.png "git")
 
 ### Install VirtualBox or Parallels
-![Virtualbox](virtualbox.png "virtualbox")
+![Virtualbox](Images/virtualbox.png "virtualbox")
 
 ### Install Vagrant
-![vagrant](vagrant.png "vagrant")
+![vagrant](Images/vagrant.png "vagrant")
 
 ### Install Packer.io
-![packer](packer.png "packer")
+![packer](Images/packer.png "packer")
 
 ### Oh-My-Git Tutorial
-![ohmygit](ogmygit1.png "ohmygit")
-![ohmygit2](ogmygit2.png "ohmygit2")
-![ohmygit3](ogmygit3.png "ohmygit3")
+![ohmygit](Images/ogmygit1.png "ohmygit")
+![ohmygit2](Images/ogmygit2.png "ohmygit2")
+![ohmygit3](Images/ogmygit3.png "ohmygit3")
