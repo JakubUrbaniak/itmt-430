@@ -24,31 +24,31 @@ We will cover the initial installation of tools we will need for this semester. 
 Additional samples and tutorials are available at [https://github.com/illinoistech-itm/jhajek/tree/master/itmt-430](https://github.com/illinoistech-itm/jhajek/tree/master/itmt-430 "webpage for samples")
 
 ### Package Managers
-![Chocolatey]("Images/Chocolatey.png")
+![Chocolatey](Images/Chocolatey.png "Chocolatey")
 
 
 ### Installation of a Modern Shell
-![PowerShell]("Images/Powershell.png")
+![PowerShell](Images/Powershell.png "PowerShell")
 
 ### Installation of a Modern Terminal
-![ModernShell]("Images/Windows_Terminal.png")
+![ModernShell](Images/Windows_Terminal.png "ModernShell")
 
 ### Install IDE editor with native version control support
-![IDEeditor]("VisualStudioCode.png")
+![IDEeditor](VisualStudioCode.png "Text Editor")
 
 ### Install Git Client for Version Control
-![git]("git.png")
+![git](git.png "git")
 
 ### Install VirtualBox or Parallels
-![Virtualbox]("virtualbox.png")
+![Virtualbox](virtualbox.png "virtualbox")
 
 ### Install Vagrant
-![vagrant]("vagrant.png")
+![vagrant](vagrant.png "vagrant")
 
 ### Install Packer.io
-![packer]("packer.png")
+![packer](packer.png "packer")
 
 ### Oh-My-Git Tutorial
-![ohmygit]("ogmygit1.png")
-![ohmygit2]("ogmygit2.png")
-![ohmygit3]("ogmygit3.png")
+![ohmygit](ogmygit1.png "ohmygit")
+![ohmygit2](ogmygit2.png "ohmygit2")
+![ohmygit3](ogmygit3.png "ohmygit3")
