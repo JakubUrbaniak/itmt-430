@@ -49,6 +49,6 @@ Additional samples and tutorials are available at [https://github.com/illinoiste
 ![packer](Images/packer.png "packer")
 
 ### Oh-My-Git Tutorial
-![ohmygit](Images/ogmygit1.png "ohmygit")
-![ohmygit2](Images/ogmygit2.png "ohmygit2")
-![ohmygit3](Images/ogmygit3.png "ohmygit3")
+![ohmygit](Images/ohmygit1.png "ohmygit")
+![ohmygit2](Images/ohmygit2.png "ohmygit2")
+![ohmygit3](Images/ohmygit3.png "ohmygit3")
